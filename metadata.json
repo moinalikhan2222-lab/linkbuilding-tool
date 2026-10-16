@@ -1,0 +1,6 @@
+{
+  "name": "LinkPulse AI - Automated SEO Link Building Agent",
+  "description": "Autonomous AI Link Building & SEO Agent with browser automation, smart spreadsheet ingestion, Gmail verification, opportunity discovery, and live backlink verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
